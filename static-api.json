@@ -1,12 +1,12 @@
 [
     {"nama": "Amazon", "informasi": "Tersedia Diskon 40%", "imageId": "amazon"},
-    {"nama": "Blibli", "namaLatin": "Tersedia Cashback 30%", "imageId": "blibli"},
-    {"nama": "Buka Lapak", "namaLatin": "Tersedia Diskon 20%", "imageId": "bukalapak"},
-    {"nama": "Dana", "namaLatin": "Tersedia Cashback 15%", "imageId": "dana"},
-    {"nama": "Gojek", "namaLatin": "Tersedia Cashback 25%", "imageId": "gojek"},
-    {"nama": "Grab", "namaLatin": "Tersedia Diskon 25%", "imageId": "grab"},
-    {"nama": "Lazada", "namaLatin": "Tersedia Cashback 10%", "imageId": "lazada"},
-    {"nama": "OVO", "namaLatin": "Tersedia Diskon 40%", "imageId": "ovo"},
-    {"nama": "Shopee", "namaLatin": "Tersedia Cashback 40%", "imageId": "shopee"},
-    {"nama": "Tokopedia", "namaLatin": "Tersedia Diskon 60%", "imageId": "tokopedia"}
+    {"nama": "Blibli", "informasi": "Tersedia Cashback 30%", "imageId": "blibli"},
+    {"nama": "Buka Lapak", "informasi": "Tersedia Diskon 20%", "imageId": "bukalapak"},
+    {"nama": "Dana", "informasi": "Tersedia Cashback 15%", "imageId": "dana"},
+    {"nama": "Gojek", "informasi": "Tersedia Cashback 25%", "imageId": "gojek"},
+    {"nama": "Grab", "informasi": "Tersedia Diskon 25%", "imageId": "grab"},
+    {"nama": "Lazada", "informasi": "Tersedia Cashback 10%", "imageId": "lazada"},
+    {"nama": "OVO", "informasi": "Tersedia Diskon 40%", "imageId": "ovo"},
+    {"nama": "Shopee", "informasi": "Tersedia Cashback 40%", "imageId": "shopee"},
+    {"nama": "Tokopedia", "informasi": "Tersedia Diskon 60%", "imageId": "tokopedia"}
 ]
